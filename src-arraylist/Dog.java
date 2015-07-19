@@ -1,4 +1,3 @@
-
 public class Dog extends Pet {
 	Double weight;
 	public Dog(String name, Double weight){
